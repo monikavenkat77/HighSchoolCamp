@@ -34,6 +34,7 @@ def palindrome(check):
     return check == check[::-1]
 
 print(palindrome("Computer"))
+print(palindrome("Madam, I'm Adam"))
 
 
 
