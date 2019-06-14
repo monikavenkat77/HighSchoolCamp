@@ -55,7 +55,7 @@ def draw_stick_figure(screen, x, y):
 
 while not done:
     ball_pos += ball_change
-    if ball_pos > 275:
+    if ball_pos > -150:
         ball_change -= 1
     elif ball_pos < 100:
         ball_change += 1

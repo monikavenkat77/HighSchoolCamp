@@ -14,5 +14,5 @@ def shake_ball(options):
     rnd_num = random.randint(0, len(options)-1)
     return options[rnd_num]
 
-print(shake_ball)
+#print(shake_ball)
 

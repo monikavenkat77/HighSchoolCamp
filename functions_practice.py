@@ -7,7 +7,7 @@ date: 2019-06-12 11:19
 def age_calculator(year1, year2):
     return year1 - year2
 
-print(age_calculator(2019, 2003))
+print(age_calculator(2019, 1978))
 
 #averaging numbers
 def avg_numbers(x, y, z):
